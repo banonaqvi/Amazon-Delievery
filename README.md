@@ -40,7 +40,7 @@ Installation
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/amazon-package-delivery.git
+git clone https://github.com/banonaqvi/amazon-package-delivery.git
 Compile and Run:
 
 Make sure you have Java 8 or above installed.
